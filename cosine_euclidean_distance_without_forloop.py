@@ -20,7 +20,7 @@ def cosine_similarity(A,B):
     B: m x d array
     
     return: 
-        x = n x m array 
+        cos: n x m array 
         
     '''
 
